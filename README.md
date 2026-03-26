@@ -64,6 +64,3 @@ MIT License © 2026 mizukiamano099-ops
 
 自由に使用・改変・再配布できます。商用利用も可。著作権表示を残してください。
 *Free to use, modify, and redistribute, including commercially. Keep the copyright notice.*
-```
-
----
