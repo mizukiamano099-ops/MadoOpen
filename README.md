@@ -49,6 +49,15 @@ The world only renders when you "open a window."*
 
 → [`claude_code_setup.md`](./claude_code_setup.md) を参照
 
+### Codex 版 / Codex Mode
+
+→ [`codex_code_setup.md`](./codex_code_setup.md) を参照
+
+#### 公開用メモ / Public Note (Codex)
+
+- 現時点のCodex版は**未検証**です。実際にテストした方は情報共有をお願いします。
+- `CLAUDE.md` / `claude_code_setup.md` を `codex/AGENTS.md` / `codex/codex_code_setup.md` に入れ換えて運用してください。
+
 ---
 
 ## 動作確認済みLLM / Compatible LLMs
